@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588429384 source:c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\date.cpp
+	"date.h"
+	<string>
+
+1588145129 c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\date.h
+	<iostream>
+
+1588488173 source:c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\datetest\main.cpp
+	"../date.h"
+	<iostream>
+

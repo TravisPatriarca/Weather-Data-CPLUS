@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588489586 source:c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\timetest\main.cpp
+	"../time.h"
+	<iostream>
+
+1588430077 c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\time.h
+	<iostream>
+
+1588490986 source:c:\users\vinte\desktop\ict283 - assignment 1 (final)\codeblocks project\time.cpp
+	"time.h"
+	<iostream>
+

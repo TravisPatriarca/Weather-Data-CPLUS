@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588840555 source:c:\users\vinte\desktop\lab8\codeblocks project\vectortest\main.cpp
+	"../vector.h"
+	<iostream>
+
+1588840546 c:\users\vinte\desktop\lab8\codeblocks project\vector.h
+	<iostream>
+	<assert.h>
+	<vector>
+
